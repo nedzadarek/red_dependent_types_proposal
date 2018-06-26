@@ -1,0 +1,3 @@
+- use/modify everywhere
+- link to this github
+- use at your own risk
