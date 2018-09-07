@@ -1,7 +1,7 @@
 # Red dependent types
 
 ## Info
-I have tried to implement something described [here](https://github.com/red/red/wiki/Proposal-__-user-defined-types-%28UDT%29-and-dependent-types#dependent-types).
+I have tried to implement something described [here](https://github.com/red/red/wiki/%5BPROP%5D-User-defined-types-(UDT)-and-dependent-types#dependent-types).
 
 ## Usage:
 ```
